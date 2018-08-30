@@ -1,12 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trump_Speed", "Assembly-CSharp.csproj", "{2314EE46-B99F-0166-0022-D5EAC196DDB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trump_Speed", "Assembly-CSharp-firstpass.csproj", "{C76FDD28-0B7B-7271-BA47-6C68DD95D910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trump_Speed", "Assembly-CSharp-Editor-firstpass.csproj", "{EC9FDB8E-9E15-7232-87D1-D18916C65FC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2314EE46-B99F-0166-0022-D5EAC196DDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2314EE46-B99F-0166-0022-D5EAC196DDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2314EE46-B99F-0166-0022-D5EAC196DDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2314EE46-B99F-0166-0022-D5EAC196DDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76FDD28-0B7B-7271-BA47-6C68DD95D910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76FDD28-0B7B-7271-BA47-6C68DD95D910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76FDD28-0B7B-7271-BA47-6C68DD95D910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76FDD28-0B7B-7271-BA47-6C68DD95D910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9FDB8E-9E15-7232-87D1-D18916C65FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9FDB8E-9E15-7232-87D1-D18916C65FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9FDB8E-9E15-7232-87D1-D18916C65FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9FDB8E-9E15-7232-87D1-D18916C65FC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

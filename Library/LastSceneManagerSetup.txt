@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Speed.unity
+- path: Assets/Scenes/TwoPlay.unity
   isLoaded: 1
   isActive: 1
